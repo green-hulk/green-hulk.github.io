@@ -70,7 +70,13 @@ Jenkins有两个发行版本，LTS和Weekly。LTS比较稳定，每隔12周发�
 7. 解锁Jenkins</br>
 第一次访问Jenkins实例，需要Unlock Jenkins。Administrator password:获取路径 <home>\.jenkins\secrets\initialAdminPassword（该路径有提示）。
 8. Jenkins 离线</br>
-![mage-20180423170415](https://github.com/green-hulk/green-hulk.github.io/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-03-15%20%E4%B8%8A%E5%8D%8810.33.59.png)
+![mage-20180423170415](https://github.com/green-hulk/green-hulk.github.io/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-03-15%20%E4%B8%8A%E5%8D%8810.33.59.png)</br>
+即使Jenkins实例处于有网络的状态下，也会显示离线。如果处于离线状态，则无法在线下载Jenkins的插件。解决办法有二：</br>
+方法一：跳过插件，后去Jenkins官网下载插件到本地，再上传到自己的Jenkins上。（不推荐这个方案，比较麻烦）</br>
+方法二：进入该链接，<jenkins:ip>//pluginManager/advanced，拖到最下方找到升级站点，将URL的https改为http
+9. 创建admin用户
+10. 安装默认的Jenkins的插件
+
 ### 手把手教你部署一个普通项目
 
 
