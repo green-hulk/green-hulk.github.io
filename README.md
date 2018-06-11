@@ -38,6 +38,25 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ## Jenkins
 ### 什么是Jenkins？
-官方解释：Jenkins是一个开源软件项目，是基于Java开发的一种持续集成工具，用于监控持续重复的工作，旨在提供一个开放易用的软件平台，使软件的持续集成变成可能。For more details see [Jenkins](https://jenkins.io/).
+一个工具。
+一个一键式工具。
+一个一键式持续部署项目的工具。
+除此之外，还有......
+官方详解[Jenkins](https://jenkins.io/).
+
+### 为什么会用到Jenkins？
+convenient!
+回想之前没有jenkins的日子：sad!
+Jenkins易于安装，易于配置，各种插件基本满足你们所有的需求。
+
+### Jenkins的心路历程
+Jenkins的前身叫做Hudson。2004年Sun公司创作了Hudson，2015年2月Hudson首次发布。2010年Sun公司被Oracle收购，2011年1月投票决定将Hudson重命名为Jenkins，成为一个open source。2011年2月Oracle决定继续开发Hudson，并认为所以Jenkins和Hudson并不是父子关系，而是兄弟关系。
+
+### 手把手教你安装Jenkins
+
+### 手把手教你部署一个普通项目
+
+
+
 
 
