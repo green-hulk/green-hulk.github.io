@@ -36,7 +36,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-### Jenkins
-#### 什么是Jenkins？
-是
+## Jenkins
+### 什么是Jenkins？
+官方解释：Jenkins是一个开源软件项目，是基于Java开发的一种持续集成工具，用于监控持续重复的工作，旨在提供一个开放易用的软件平台，使软件的持续集成变成可能。For more details see [Jenkins](https://jenkins.io/).
+
 
