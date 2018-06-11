@@ -70,8 +70,7 @@ Jenkins有两个发行版本，LTS和Weekly。LTS比较稳定，每隔12周发�
 7. 解锁Jenkins</br>
 第一次访问Jenkins实例，需要Unlock Jenkins。Administrator password:获取路径 <home>\.jenkins\secrets\initialAdminPassword（该路径有提示）。
 8. Jenkins 离线</br>
-![parameters](http://souche.oss-cn-hangzhou.aliyuncs.com/20180509/png/ef5fff65a3002b4177b849a480304a0d.png)
-
+![mage-20180423170415](/最佳实践/restful1.png)
 ### 手把手教你部署一个普通项目
 
 
