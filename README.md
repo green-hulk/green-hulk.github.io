@@ -76,6 +76,9 @@ Jenkins有两个发行版本，LTS和Weekly。LTS比较稳定，每隔12周发�
 方法二：进入该链接，<jenkins:ip>//pluginManager/advanced，拖到最下方找到升级站点，将URL的https改为http
 9. 创建admin用户
 10. 安装默认的Jenkins的插件
+Done！
+![jenkins](https://github.com/green-hulk/green-hulk.github.io/blob/master/jenkins02.png)</br>
+
 
 ### 手把手教你部署一个普通项目
 
