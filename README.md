@@ -88,6 +88,22 @@ Done！
 5. Maven
 6. Docker</br>
 根据自己的需求选择安装，本次安装了JDK/Maven/Git，其中Git默认安装，JDK与Maven均是提供别名和HOME路径即可。
+#### 系统设置
+#### 全局安全配置
+#### Configure Credentials
+#### 读取设置
+#### 管理插件
+#### 系统信息
+#### 系统日志
+#### 负载统计
+#### Jenkins CLI
+#### 脚本命令行
+#### 管理节点
+#### 关于Jenkins
+#### Manage Old Data
+#### In-process Script Approval
+#### ThinBackup
+#### 准备关机
 
 ### 手把手教你部署一个普通项目
 
