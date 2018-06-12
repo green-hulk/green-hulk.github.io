@@ -79,6 +79,15 @@ Jenkins有两个发行版本，LTS和Weekly。LTS比较稳定，每隔12周发�
 Done！
 ![jenkins](https://github.com/green-hulk/green-hulk.github.io/blob/master/jenkins02.png)</br>
 
+### 手把手教你配置Jenkins
+#### 全局工具配置
+1. JDK
+2. Git
+3. Gradle
+4. Ant
+5. Maven
+6. Docker</br>
+根据自己的需求选择安装，本次安装了JDK/Maven/Git，其中Git默认安装，JDK与Maven均是提供别名和HOME路径即可。
 
 ### 手把手教你部署一个普通项目
 
